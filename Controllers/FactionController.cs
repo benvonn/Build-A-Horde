@@ -3,7 +3,7 @@ using BuildAHordeBE.Models;
 using Microsoft.AspNetCore.Mvc;
 
 // using Microsoft.AspNetCore.Components;
-using Microsoft.IdentityModel
+using Microsoft.IdentityModel;
 
 
 [Route("api/[controller]")]
